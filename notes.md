@@ -60,4 +60,5 @@ Se basa en las 7 unidades fundamentales.
 
 2. Unidades derivadas: como la velocidad, que describen la relación entre las magnitudes fundamentales.
 
-3.-
+3. Base física: las unidades se definen a partir de constantes físicas fundamentales para mayor precisión.
+
