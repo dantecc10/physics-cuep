@@ -76,14 +76,14 @@ Se basa en las 7 unidades fundamentales.
 | peta | P | 15 |
 | tera | T | 12 |
 | giga | G | 9 |
-| mega |M | 6 |
+| mega | M | 6 |
 | kilo | k | 3 |
 | hecto | h | 2 |
 | deca | da | 1 |
 | deci | d | -1 |
 | centi | c | -2 |
 | mili | m | -3 |
-| micro | pendiente | -6 | 
+| micro | $\mu$ | -6 | 
 | nano | n | -9 |
 | pico | p | -12 |
 | femto | f | -15 |
