@@ -62,3 +62,6 @@ Se basa en las 7 unidades fundamentales.
 
 3. Base física: las unidades se definen a partir de constantes físicas fundamentales para mayor precisión.
 
+4. Prefijos: Utilizamos prefijos decimales (kilo, mili, micro) para múltiplos y submúltiplos, según la escala en la que trabajemos.
+
+5. Permite la comunicación y el comercio internacional **sin ambigüedades**.
