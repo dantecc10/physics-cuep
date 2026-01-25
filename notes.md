@@ -83,7 +83,7 @@ Se basa en las 7 unidades fundamentales.
 | deci | d | -1 |
 | centi | c | -2 |
 | mili | m | -3 |
-| micro | $\mu$ | -6 | 
+| micro | $\mu$ (letra griega *mu*) | -6 | 
 | nano | n | -9 |
 | pico | p | -12 |
 | femto | f | -15 |
