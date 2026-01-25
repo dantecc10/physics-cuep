@@ -39,6 +39,13 @@ Dos ramas:
 
 #### Sistema Internacional de Unidades
 
+##### ¿Qué es?
+
+Es el sistema de medición más utilizado en el mundo.
+
+Se basa en las 7 unidades fundamentales.
+
+
 | Magnitud  | Unidad (símbolo) |
 |:-:|:-:|
 | Longitud | metro ($m$)  |
