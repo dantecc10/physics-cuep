@@ -28,6 +28,8 @@ Video introductorio: **_[¿QUÉ ES LA FÍSICA?](https://youtu.be/xTD8H9QKCKE)_**
 - Término griego physis.
 - Fue conocida como *Filosofía Natural*.
 
+![En 1687, Isaac Newton publicó *Philosophiæ naturalis principia mathematica*](https://upload.wikimedia.org/wikipedia/commons/3/3e/Newton%27s_Principia_title_page.png)
+
 **Físicos notables**:
 - Galileo Galilei
 - Stephen Hawking
