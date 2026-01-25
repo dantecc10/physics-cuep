@@ -12,4 +12,4 @@
 > "Ciencia que estudia la materia y la energía, así como sus transformaciones".
 
 **Ían**:
-> "La ciencia que estudia los compoentnes fundamentales del universo, incluyendo la materia, la energía, el espacio-tiempo y las interacciones fundamentales".
+> "La ciencia que estudia los componentes fundamentales del universo, incluyendo la materia, la energía, el espacio-tiempo y las interacciones fundamentales".
