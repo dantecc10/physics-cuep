@@ -22,7 +22,7 @@ Podemos decir que la física se define como la ciencia que estudia el universo y
 
 Básicamente, estudia las **_fuerzas_**.
 
-
+Video introductorio: **_[¿QUÉ ES LA FÍSICA?](https://youtu.be/xTD8H9QKCKE)_**
 
 - Estudia los conceptos fundamentales de la naturaleza.
 - Término griego physis.
@@ -65,3 +65,4 @@ Se basa en las 7 unidades fundamentales.
 4. **Prefijos**: Utilizamos prefijos decimales (kilo, mili, micro) para múltiplos y submúltiplos, según la escala en la que trabajemos.
 
 5. **Lenguaje universal**: Permite la comunicación y el comercio internacional **sin ambigüedades**.
+
