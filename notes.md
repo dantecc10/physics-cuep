@@ -22,3 +22,29 @@ Podemos decir que la física se define como la ciencia que estudia el universo y
 
 Básicamente, estudia las **_fuerzas_**.
 
+
+
+- Estudia los conceptos fundamentales de la naturaleza.
+- Término griego physis.
+- Fue conocida como *Filosofía Natural*.
+
+**Físicos notables**:
+- Galileo Galilei
+- Stephen Hawking
+- Isaac Newton
+
+Dos ramas:
+- Física clásica
+- Física moderna
+
+#### Sistema Internacional de Unidades
+
+| Magnitud  | Unidad (símbolo) |
+|:-:|:-:|
+| Longitud | metro ($m$)  |
+| Masa | kilogramo ($kg$)  |
+| Tiempo | segundo ($s$) |
+| Corriente eléctrica | amperio ($A$) |
+| Temperatura termodinámica | kelvin ($K$) |
+| Cantidad de sustancia | mol ($mol$) |
+| Intensidad luminosa | Candela ($cd$) |
