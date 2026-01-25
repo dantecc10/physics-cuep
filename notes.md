@@ -56,12 +56,12 @@ Se basa en las 7 unidades fundamentales.
 | Cantidad de sustancia | mol ($mol$) |
 | Intensidad luminosa | Candela ($cd$) |
 
-1. Universalidad: Adopta por casi todos los países.
+1. **Universalidad**: Adopta por casi todos los países.
 
-2. Unidades derivadas: como la velocidad, que describen la relación entre las magnitudes fundamentales.
+2. **Unidades derivadas**: como la velocidad, que describen la relación entre las magnitudes fundamentales.
 
-3. Base física: las unidades se definen a partir de constantes físicas fundamentales para mayor precisión.
+3. **Base física**: las unidades se definen a partir de constantes físicas fundamentales para mayor precisión.
 
-4. Prefijos: Utilizamos prefijos decimales (kilo, mili, micro) para múltiplos y submúltiplos, según la escala en la que trabajemos.
+4. **Prefijos**: Utilizamos prefijos decimales (kilo, mili, micro) para múltiplos y submúltiplos, según la escala en la que trabajemos.
 
-5. Permite la comunicación y el comercio internacional **sin ambigüedades**.
+5. **Lenguaje universal**: Permite la comunicación y el comercio internacional **sin ambigüedades**.
