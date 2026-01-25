@@ -55,3 +55,9 @@ Se basa en las 7 unidades fundamentales.
 | Temperatura termodinámica | kelvin ($K$) |
 | Cantidad de sustancia | mol ($mol$) |
 | Intensidad luminosa | Candela ($cd$) |
+
+1. Universalidad: Adopta por casi todos los países.
+
+2. Unidades derivadas: como la velocidad, que describen la relación entre las magnitudes fundamentales.
+
+3.-
