@@ -13,3 +13,12 @@
 
 **Ían**:
 > "La ciencia que estudia los componentes fundamentales del universo, incluyendo la materia, la energía, el espacio-tiempo y las interacciones fundamentales".
+
+Podemos decir que la física se define como la ciencia que estudia el universo y sus componentes fundamentales:
+- La materia
+- La energía
+- El espacio-tiempo
+- Las interacciones entre los componentes fundamentales.
+
+Básicamente, estudia las **_fuerzas_**.
+
